@@ -65,8 +65,9 @@ p {
      #main-image{
       background: url(../images/main-image.jpg) center no-repeat;
       width : 100%;
-      height: 600px;
-        }
+      height: 700px;
+      background: size 800px; ;
+     }
 
         /* footer*/
         
