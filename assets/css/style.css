@@ -89,15 +89,24 @@ p {
 
             #social-media > li {
               display: inline; 
+              float: center; 
 
             }
 
             #social-media > ul > li {
               display: inline; 
+              float: center; 
 
             }
         
                 /*about us page */
+                #about-image{
+                  background: url(../images/main-image.jpg) center no-repeat;
+                  width : 100%;
+                  height: 500px;
+                  margin-top: 80px;
+                  right: 3%;
+                 }
 
                 /*sign up page */
 
@@ -109,5 +118,11 @@ p {
                    display: inline-block;
                    float: left;
                                   }
+                    #sign-up-image{
+                    background: url(../images/main-image.jpg) center no-repeat;
+                    width : 100%;
+                    height: 500px;
+                    margin-top: 80px;
+                      }
         
       
