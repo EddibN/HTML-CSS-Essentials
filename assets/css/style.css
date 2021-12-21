@@ -102,7 +102,12 @@ p {
                 /*sign up page */
 
                 #sign-up {
-                  float: center;
-                  }
+                  font-size: 150%;
+                   margin: 1%;
+                   padding: 1%;
+                   color:#3a3a3a;
+                   display: inline-block;
+                   float: left;
+                                  }
         
       
