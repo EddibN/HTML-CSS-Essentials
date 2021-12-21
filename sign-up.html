@@ -31,24 +31,43 @@
                 </ul>
     </nav>
     </header>
-    <section></section>
-    <footer>
-        <section>
-        <h2>Visit Our Social Media</h2>
+    <section>
+        <div id="sign-up"><form method="POST" action="sign-up.html" class="signup-form">
+            <h2>Let's get you signed up!</h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" required>
+            
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" required>
+            
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+            
+            <label for="level">Pro</label>
+            <input type="radio" id="pro" name="level" value="pro" required>
+            <label for="level">Beginner</label>
+            <input type="radio" id="beginner" name="level" value="beginner" required>
+                                   
+            <input class="join-button" type="submit" value="Sign Up!">
+        </form></div>
     </section>
-        <ul id="social-media">
-            <li>
-                <a href="http://instagram.com" target="_blank" rel="noopener" aria-label="Visit our instagram (opens in new tab)"> <i class="fab fa-instagram"></i></a>
-            </li>
-                    <li>
-                <a href="http://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook (opens in new tab)"> <i class="fab fa-facebook-square"></i></a>
-            </li>
-               <li>
-                <a href="http://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
-            </li>
-        </ul>
-    </footer>
-       
-        <script src="https://kit.fontawesome.com/2f73b72c68.js" crossorigin="anonymous"></script>     
+         <h2 id="main-text">Lets Train!</h>
+         </div>
+         <footer>
+            <h2>Visit Our Social Media</h2>
+       <ul id="social-media">
+                <li>
+                    <a href="http://instagram.com" target="_blank" rel="noopener" aria-label="Visit our instagram (opens in new tab)"> <i class="fab fa-instagram"></i></a>
+                </li>
+                        <li>
+                    <a href="http://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook (opens in new tab)"> <i class="fab fa-facebook-square"></i></a>
+                </li>
+                   <li>
+                    <a href="http://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
+                </li>
+            </ul>
+        </footer>
+           
+            <script src="https://kit.fontawesome.com/2f73b72c68.js" crossorigin="anonymous"></script>     
 </body>
 </html>

@@ -66,8 +66,10 @@ p {
      #main-image{
       background: url(../images/main-image.jpg) center no-repeat;
       width : 100%;
-      height: 600px;
-       
+      height: 500px;
+      background-size:cover;
+      margin-top: 80px;
+             
      }
 
         /* footer*/
@@ -96,5 +98,12 @@ p {
             }
         
                 /*about us page */
+
+                /*sign up page */
+
+                #sign-up {
+                  float: center;
+                  margin-top: 100px;
+                }
         
       
