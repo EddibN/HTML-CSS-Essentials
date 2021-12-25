@@ -67,8 +67,8 @@ p {
       background: url(../images/main-image.jpg) center no-repeat;
       width : 100%;
       height: 500px;
-      background-size:cover;
       margin-top: 80px;
+      background-size: cover;
              
      }
 
@@ -130,7 +130,6 @@ p {
                    margin: 1%;
                    padding: 1%;
                    color:#3a3a3a;
-                   display: inline-block;
                    float: left;
                    margin-top: 80px;
 
