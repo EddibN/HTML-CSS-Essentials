@@ -73,9 +73,12 @@ p {
      }
 
         /* footer*/
-        footer {
+        #footer {
         float: center ;
+        text-align: center;
+        font-size: 28px;
       }
+      
 
         
             #social-media{
