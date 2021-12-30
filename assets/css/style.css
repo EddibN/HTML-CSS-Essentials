@@ -126,20 +126,18 @@ p {
                       /*gallery */
                       #gallery{
                         clear: both;
+                        line-height: 0;
                         column-count: 2;
                         column-gap: 0;
                         float: center;
-                        display: block;
-                                               
-                        }
-                        #gallery > img {
-                          width: 100%;
-                          padding: 0%;
-                          float: center;
-                          font-size: 0;
-                          display: block;
-                          column-count: 2;
-                          }
+                        text-align: center;
+                    }
+                    #gallery > img {
+                      width: 100%;
+                      float: center;
+                      float: center;
+                      text-align: center;
+                    }
                           /* For diffrent screen sizes */
 
                             @media screen and (max-width: 950px) {
@@ -147,7 +145,7 @@ p {
                               
                               #menu {
                                   clear: both;
-                                  float: left;
+                                  float: right;
                                   margin-left: 0px;
                                   margin-bottom: 50px;
                                   line-height: 20px;
@@ -169,6 +167,42 @@ p {
                                        clear:both;
                                       float: center;
                                     text-align: center;}
+                                    #gallery{
+                                      clear: both;
+                        line-height: 0;
+                        column-count: 1;
+                        column-gap: 0;
+                        float: center;
+                        text-align: center;
+                                  }
+                                  #gallery > img {
+                                   width: 100%;
+                                   float: center;
+                                   display: block;
+                                   float: center;
+                                      text-align: center;
+                                  }
+                                  }
 
                                                              }
+                                                             
+                                     @media screen and (max-width: 1000px) {
+                                       /*gallery */
+                      #gallery{
+                        clear: both;
+                        line-height: 0;
+                        column-count: 1;
+                        column-gap: 0;
+                        float: center;
+                        text-align: center;
+                                  }
+                    }
+                    #gallery > img {
+                     width: 100%;
+                     float: center;
+                     float: center;
+                     text-align: center;
+                                  }
+                    
+                                      }
                            
