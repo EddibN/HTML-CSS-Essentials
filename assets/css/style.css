@@ -43,7 +43,6 @@
   font-family: lato , sans-serif;
   text-align: center;
   width: 100%;
-  height: 1200px;
   margin: 0 auto;
   letter-spacing: 1px;
   color: #3a3a3a;
@@ -61,7 +60,11 @@ p {
     font-family: lato ,sans-serif;
     font-weight: 200;
     color: #3a3a3a; 
+    height: 100%;
      }
+     html {
+    height: 100%;
+ }
 
      /* images*/
      #main-image{
@@ -78,9 +81,8 @@ p {
 
         /* footer*/
         #footer {
-        float: center ;
-        text-align: center;
-        font-size: 28px;
+         text-align: center;
+        font-size: 22px;
         position: absolute;
         right: 25%;
         left: 25%;
@@ -118,8 +120,7 @@ p {
                   margin: 1%;
                   padding: 1%;
                   text-align: center;
-                  float:center;
-                  color: #3a3a3a;
+                   color: #3a3a3a;
                 }
                            
                       /*gallery */
