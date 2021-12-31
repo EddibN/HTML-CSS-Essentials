@@ -135,9 +135,11 @@ p {
                         text-align: center;
                     }
                     #gallery > img {
-                      width: 100%;
+                      
                        float: center;
                       text-align: center;
+                      width:  200px;
+    height: 00px;
                     }
                           /* For diffrent screen sizes */
 
@@ -194,10 +196,12 @@ p {
                                        #footer {
                                         text-align: center;
                                        font-size: 25px;
-                                       position: relative;
-                                       right: 30%;
-                                       left: 0%;
+                                        right: 25%;
+                                       left: 25%;
                                        display: block;
+                                       margin-top: 1000px;
+    position: relative;
+    clear: both;
                                      }
                                      
                                
