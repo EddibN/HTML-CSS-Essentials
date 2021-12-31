@@ -269,10 +269,11 @@ float: left;
                                             
                                            
   #menu {
-font-family:font-family: Oswald , sans-serif;
-clear: both;
+font-family: Oswald , sans-serif;
+clear: left;
 float: left;
-margin-right: 70%;
+font-size: 80%;
+display: inline-block;
   }                                        
                                                
 }
