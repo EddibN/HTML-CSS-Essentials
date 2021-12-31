@@ -95,8 +95,10 @@ p {
 
         
             #social-media{
-            float: center; 
-            font-size: 150%;
+            float: center;
+            text-align: center; 
+            font-size: 100px;
+            display: block;
             margin: 1%;
             padding: 1%;
             color:#3a3a3a;
@@ -211,14 +213,15 @@ p {
                                      
                                
                                        
-                                           #social-media{
-                                           float: center; 
-                                           font-size: 180%;
-                                           margin: 1%;
-                                           padding: 1%;
-                                           color:#3a3a3a;
-                                           display: block; 
-                                           
+                                               #social-media{
+                                              float: center;
+                                              text-align: center; 
+                                              font-size: 100px;
+                                              display: block;
+                                              margin: 1%;
+                                              padding: 1%;
+                                              color:#3a3a3a;
+                                              }
                                            }
                                
                                            #social-media > li {
