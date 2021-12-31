@@ -150,12 +150,11 @@ p {
                         float: center;
                         text-align: center;
                     }
- #gallery > img {
-                      
+ #gallery > img {       
         float: center;
-                      text-align: center;
-                      width:  50%;
-                        height: 50%;
+        text-align: center;
+    width: 50%;
+    height: 50%;
                     }
                           /* For diffrent screen sizes */
 
@@ -238,32 +237,42 @@ p {
                                               
                                            
                                
-                                           #social-media > li {
-                                             display: block; 
-                                             float: center; 
+ #social-media > li {
+  display: block; 
+   float: center; 
                                
                                            }
                                
-                                           #social-media > ul > li {
-                                             display: block; 
-                                             float: center; }
+ #social-media > ul > li {
+  display: block; 
+  float: center; }
                                
-                                           }
+   }
                                 
                                 
                                       
-                                           @media screen and (max-width: 827px) {
+                                           @media screen and (max-width: 900px) {
 
                             
                                             
                                            
-                                            #menu {
-                                              font-family:font-family: Oswald , sans-serif;
-                                              clear: left;
-                                              float: left;
-                                              margin-left: 30px;
-                                              margin-bottom: 20px;
-                                              line-height: 25px;
-                                          }                                        
+   #menu {
+ font-family:font-family: Oswald , sans-serif;
+clear: left;
+float: left;
+   }                                        
                                                 
-                                                              }
+ }
+ @media screen and (max-width: 623px) {
+
+                            
+                                            
+                                           
+  #menu {
+font-family:font-family: Oswald , sans-serif;
+clear: both;
+float: left;
+margin-right: 70%;
+  }                                        
+                                               
+}
