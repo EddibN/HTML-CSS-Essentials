@@ -165,7 +165,7 @@ p {
 #menu {
   float: right;
   font-family: Oswald , sans-serif;
-  font-size: 150%;
+  font-size: 120%;
   letter-spacing: 6px;
   text-transform: uppercase;
                                   
@@ -174,26 +174,24 @@ p {
  #sign-up {
           margin-top: 100px;}                                                                     
                                   
-        #main-image{
-                                        background: url(../images/main-image.jpg) center  no-repeat;
-                                        clear: both;
-                                        width : 100%;
-                                        height: 200px;
-                                        margin-top: 80px;
-                                        background-size: cover;
-                                        margin: 0%;
-                                        background-color: #3a3a3a;
-                                                                            
-                                                  
-                                       }
+ #main-image{
+    background: url(../images/main-image.jpg) center  no-repeat;
+     clear: both;
+     width : 100%;
+     height: 200px;
+     margin-top: 80px;
+     background-size: cover;
+     margin: 0%;
+     background-color: #3a3a3a;
+     }
                                   
 #sign-up-text{
-                                   font-family: lato , sans-serif;
-                                       color: #3a3a3a;
-                                       float: center;
-                                       clear:both;
-                                      float: center;
-                                    text-align: center;}
+   font-family: lato , sans-serif;
+    color: #3a3a3a;
+     float: center;
+     clear:both;
+      float: center;
+     text-align: center;}
                                   
                                        /*gallery */
  #gallery{
