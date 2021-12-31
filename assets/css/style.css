@@ -11,7 +11,7 @@
 }
  #menu{
   font-family: Oswald , sans-serif;
-  font-size: 100%;
+  font-size: 200%;
   letter-spacing: 6px;
   text-transform: uppercase;
 }
@@ -94,32 +94,33 @@ p {
       
 
         
-            #social-media{
-            float: center;
-            text-align: center; 
-            font-size: 100px;
+ #social-media{
+  font-family: lato , sans-serif;
+   float: center;
+     text-align: center; 
+   font-size: 50px;
             display: block;
             margin: 1%;
             padding: 1%;
             color:#3a3a3a;
             }
 
-            #social-media > li {
-              display: inline; 
-              float: center; 
+#social-media > li {
+   display: inline; 
+    float: center; 
 
             }
 
-            #social-media > ul > li {
-              display: inline; 
-              float: center; 
+#social-media > ul > li {
+   display: inline; 
+  float: center; 
 
             }
         
                
                 /*sign up page */
 
-                #sign-up {
+#sign-up {
                   font-family: lato , sans-serif;
                   letter-spacing: 1px;
                   font-size: 180%;
@@ -131,7 +132,7 @@ p {
                 }
                            
                       /*gallery */
-                      #gallery{
+ #gallery{
                         clear: both;
                         line-height: 0;
                         column-count: 2;
@@ -139,9 +140,9 @@ p {
                         float: center;
                         text-align: center;
                     }
-                    #gallery > img {
+ #gallery > img {
                       
-                       float: center;
+        float: center;
                       text-align: center;
                       width:  50%;
                         height: 50%;
@@ -151,18 +152,18 @@ p {
                           @media screen and (max-width: 1024px) {
                             
  
-                              #menu {
-                                font-size: 12px;                                                                  
-                                  float: right;                             
-                                   line-height: 20px;
-                                  columns: 1;
+#menu {
+      font-size: 200%;                                                                  
+     float: right;                             
+    line-height: 20px;
+      columns: 1;
                                   
                                     }
                                     
-                                    #sign-up {
-                                      margin-top: 100px;}                                                                     
+ #sign-up {
+          margin-top: 100px;}                                                                     
                                   
-                                      #main-image{
+        #main-image{
                                         background: url(../images/main-image.jpg) center  no-repeat;
                                         clear: both;
                                         width : 100%;
@@ -175,7 +176,7 @@ p {
                                                   
                                        }
                                   
-                                    #sign-up-text{
+#sign-up-text{
                                    font-family: lato , sans-serif;
                                        color: #3a3a3a;
                                        float: center;
@@ -184,7 +185,7 @@ p {
                                     text-align: center;}
                                   
                                        /*gallery */
-                                        #gallery{
+ #gallery{
                                            clear: both;
                                              line-height: 0;
                                              column-count: 1;
@@ -193,7 +194,7 @@ p {
                                            text-align: center;
                                             }
                                
-                                #gallery > img {
+#gallery > img {
                               float: left;
                                width:  100px;
                                   height: 100px;
@@ -213,16 +214,20 @@ p {
                                      
                                
                                        
-                                               #social-media{
-                                              float: center;
-                                              text-align: center; 
-                                              font-size: 100px;
-                                              display: block;
-                                              margin: 1%;
-                                              padding: 1%;
-                                              color:#3a3a3a;
-                                              }
-                                           }
+                                               
+                                                #social-media{
+                                                  font-family: lato , sans-serif;
+                                                   float: center;
+                                                     text-align: center; 
+                                                   font-size: 30px;
+                                                            display: block;
+                                                            margin: 1%;
+                                                            padding: 1%;
+                                                            color:#3a3a3a;
+                                                            clear: both;
+                                                            }
+                                              
+                                           
                                
                                            #social-media > li {
                                              display: block; 
@@ -238,20 +243,21 @@ p {
                                 
                                 
                                       
-                                           @media screen and (max-width: 570px) {
+                                           @media screen and (max-width: 800px) {
 
                               
-                                            #menu {
-                                              font-size: 12px;                                                                  
-                                                float: center;                             
-                                                 line-height: 20px;
-                                                   columns: 1;
-                                                   margin-right: 20%;
+ #menu {
+   font-size: 50%;                                                                                             
+    float: right;                             
+    line-height: 5px;
+             text-align: center;
+      font-family: Oswald , sans-serif;
+  font-size: 200%;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+                                                                                                  
                                                 
                                                   }
-                                                #logo{
-                                                  float: center;
-                                                  margin-left: 30%;
-                                                }
+                                                
 
                                                 }
