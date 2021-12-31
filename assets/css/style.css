@@ -238,8 +238,13 @@ p {
                                               font-size: 12px;                                                                  
                                                 float: center;                             
                                                  line-height: 20px;
-                                                columns: 1;
+                                                   columns: 1;
+                                                   margin-right: 20%;
                                                 
                                                   }
+                                                #logo{
+                                                  float: center;
+                                                  margin-left: 30%;
+                                                }
 
                                                 }
