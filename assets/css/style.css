@@ -169,8 +169,7 @@ p {
                                         background-size: cover;
                                         margin: 0%;
                                         background-color: #3a3a3a;
-                                        text-align: center;
-                                      
+                                                                            
                                                   
                                        }
                                   
@@ -188,7 +187,7 @@ p {
                                              line-height: 0;
                                              column-count: 1;
                                              column-gap: 0;
-                                             float: left;
+                                             float: center;
                                            text-align: center;
                                             }
                                
