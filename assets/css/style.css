@@ -181,14 +181,49 @@ p {
                                              line-height: 0;
                                              column-count: 1;
                                              column-gap: 0;
-                                             float: center;
+                                             float: left;
                                            text-align: center;
                                             }
                                
                                 #gallery > img {
-                                  width: 100%;
-                                  
+                                                                   float: left;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
                                        }
-                                }
+                                       #footer {
+                                        text-align: center;
+                                       font-size: 25px;
+                                       position: relative;
+                                       right: 30%;
+                                       left: 0%;
+                                       display: block;
+                                     }
+                                     
+                               
+                                       
+                                           #social-media{
+                                           float: center; 
+                                           font-size: 180%;
+                                           margin: 1%;
+                                           padding: 1%;
+                                           color:#3a3a3a;
+                                           display: block; 
+                                           
+                                           }
+                               
+                                           #social-media > li {
+                                             display: block; 
+                                             float: center; 
+                               
+                                           }
+                               
+                                           #social-media > ul > li {
+                                             display: block; 
+                                             float: center; }
+                               
+                                           }
+                                
+                                
                                       
                            
