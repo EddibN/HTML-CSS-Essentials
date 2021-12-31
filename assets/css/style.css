@@ -145,15 +145,12 @@ p {
 
                               
                               #menu {
-                                font-size: 20px;
-                                  clear: both;
-                                  display: block;
-                                  float: left;
-                                  margin-left: 0px;
-                                  margin-bottom: 50px;
-                                  line-height: 20px;
+                                font-size: 12px;                                                                  
+                                  float: right;                             
+                                   line-height: 20px;
                                   columns: 1;
                                     }
+                                    
                                       #sign-up {
                                       margin-top: 100px;}
                                                                         
