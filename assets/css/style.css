@@ -151,11 +151,9 @@ p {
                                   columns: 1;
                                     }
                                     
-                                      #sign-up {
-                                      margin-top: 100px;}
-                                                                        
-                                  }
-
+                                    #sign-up {
+                                      margin-top: 100px;}                                                                     
+                                  
                                   #main-image{
                                     background: url(../images/main-image.jpg) center no-repeat;
                                     margin-top: 90px;  }
@@ -167,23 +165,8 @@ p {
                                        clear:both;
                                       float: center;
                                     text-align: center;}
-                                    #gallery{
-                                      clear: both;
-                                       line-height: 0;
-                                    column-count: 1;
-                                     column-gap: 0;
-                                    float: center;
-                                  text-align: center;
-                                  
-                                  #gallery > img {
-                                   width: 100%;
-                                   float: center;
-                                   display: block;
-                                   float: center;
-                                      text-align: center;}
                                   }
-                                  
-                                                                                                                       
+                                                                                                                                                         
                                      @media screen and (max-width: 1000px) {
                                        /*gallery */
                                         #gallery{
