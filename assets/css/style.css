@@ -148,7 +148,7 @@ p {
                               
                               #menu {
                                 font-size: 12px;                                                                  
-                                  float: left;                             
+                                  float: right;                             
                                    line-height: 20px;
                                   columns: 1;
                                   
@@ -188,11 +188,12 @@ p {
                                             }
                                
                                 #gallery > img {
-                                                                   float: left;
-    width:  100px;
-    height: 100px;
-    background-size: cover;
+                              float: left;
+                               width:  100px;
+                                  height: 100px;
+                                       background-size: cover;
                                        }
+
                                        #footer {
                                         text-align: center;
                                        font-size: 25px;
@@ -200,8 +201,8 @@ p {
                                        left: 25%;
                                        display: block;
                                        margin-top: 1000px;
-    position: relative;
-    clear: both;
+                                        position: relative;
+                                       clear: both;
                                      }
                                      
                                
@@ -230,4 +231,15 @@ p {
                                 
                                 
                                       
-                           
+                                           @media screen and (max-width: 570px) {
+
+                              
+                                            #menu {
+                                              font-size: 12px;                                                                  
+                                                float: center;                             
+                                                 line-height: 20px;
+                                                columns: 1;
+                                                
+                                                  }
+
+                                                }
