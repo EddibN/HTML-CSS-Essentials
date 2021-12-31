@@ -1,19 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
 /*logo and menu*/
-#logo, h1 {
+#logo{float: left;
+  font-size: 280%;
+  margin-left: 30px;
+  text-transform: uppercase;
+  color: #3a3a3a;
+}
+  
+}
+# h1 {
   font-family: Oswald , sans-serif;
   text-transform: uppercase;
   letter-spacing: 6px;
   font-size: 200%;
   float: left;
-  color: #252525;
-  border-bottom: 0px solid #3a3a3a;
+  color:#3a3a3a;    
 }
  #menu{
+   float: right;
   font-family: Oswald , sans-serif;
-  font-size: 200%;
+  font-size: 150%;
   letter-spacing: 6px;
   text-transform: uppercase;
+  
 }
 #menu,li {
   line-height: 80px;
@@ -151,12 +160,14 @@ p {
 
                           @media screen and (max-width: 1024px) {
                             
- 
+
 #menu {
-      font-size: 200%;                                                                  
-     float: right;                             
-    line-height: 20px;
-      columns: 1;
+  clear: both;
+  float: center;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  line-height: 20px;
+  text-align: left;
                                   
                                     }
                                     
@@ -243,21 +254,18 @@ p {
                                 
                                 
                                       
-                                           @media screen and (max-width: 800px) {
+                                           @media screen and (max-width: 827px) {
 
-                              
- #menu {
-   font-size: 50%;                                                                                             
-    float: right;                             
-    line-height: 5px;
-             text-align: center;
-      font-family: Oswald , sans-serif;
-  font-size: 200%;
-  letter-spacing: 6px;
-  text-transform: uppercase;
-                                                                                                  
+                            
+                                            
+                                           
+                                            #menu {
+                                              font-family:font-family: Oswald , sans-serif;
+                                              clear: left;
+                                              float: left;
+                                              margin-left: 30px;
+                                              margin-bottom: 20px;
+                                              line-height: 25px;
+                                          }                                        
                                                 
-                                                  }
-                                                
-
-                                                }
+                                                              }
