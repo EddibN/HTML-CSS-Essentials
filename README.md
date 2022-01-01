@@ -31,7 +31,7 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - This page will allow the user to see get direct links to all social media platforms. 
   - This section also has a big "call to action" to visit the clubs social media. 
 
-![Meetup Times](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/social-media-page.png)
+![Social Media](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/social-media-page.png)
 
 - __The Sign Up Page__
 
@@ -56,3 +56,15 @@ This section should describe the process you went through to deploy the project 
   - In the GitHub repository, navigate to the Settings tab 
   - Navigate and select the main Branch
   - Press deploy and wait.
+
+  
+## Credits 
+
+All gallery images credited to Lions MMA Swedens Instagram page
+Fonts are from code institutes first project.
+
+## Lighthouse audit
+
+Scores from Lighthous Audit
+
+![Lighthouse audit](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/lighthouse.png)
