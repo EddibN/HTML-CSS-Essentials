@@ -32,3 +32,11 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - This section also has a big "call to action" to visit the clubs social media. 
 
 ![Meetup Times](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/social-media-page.png)
+
+- __The Sign Up Page__
+
+  - This page will allow the user to get signed up to the club and start training. 
+  - The user will be asked to submit their full name and email address.
+  - The user will be able to se both the prices and the services such as access to a personal trainer.
+
+![Sign Up](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/sign-up-page.png)
