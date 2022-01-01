@@ -60,10 +60,14 @@ This section should describe the process you went through to deploy the project 
   
 ## Credits 
 
-All gallery images credited to Lions MMA Swedens Instagram page
-Fonts are from code institutes first project.
+### Media
+ All gallery images credited to Lions MMA Swedens Instagram page
 
-## Lighthouse audit
+### Content 
+
+- The icons and font were taken from [Font Awesome](https://fontawesome.com/) & Code institute project.
+
+# Lighthouse audit
 
 Scores from Lighthous Audit
 
