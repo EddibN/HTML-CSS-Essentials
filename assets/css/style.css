@@ -14,7 +14,6 @@
   text-transform: uppercase;
   letter-spacing: 6px;
   font-size: 200%;
-  float: center;
   color:#3a3a3a;    
 }
  #menu{
@@ -73,11 +72,7 @@ p {
     height: 100%;
     width:100%;
      }
-     html {
-    height: 100%;¨
-    width: 100%;
-   }
-
+     
      /* images*/
      #main-image{
       background: url(../images/main-image.jpg) center  no-repeat;
@@ -106,8 +101,7 @@ p {
         
  #social-media{
   font-family: lato , sans-serif;
-   float: center;
-   margin-top: 10px;
+     margin-top: 10px;
      text-align: center; 
    font-size: 50px;
             display: block;
@@ -118,15 +112,13 @@ p {
 
 #social-media > li {
    display: inline; 
-    float: center; 
+    
 
             }
 
 #social-media > ul > li {
    display: inline; 
-  float: center; 
-
-            }
+        }
         
                
                 /*sign up page */
@@ -138,8 +130,7 @@ p {
                   margin: 1%;
                   padding: 1%;
                   text-align: center;
-                  float: center;
-                   color: #3a3a3a;
+                  color: #3a3a3a;
                 }
                            
                       /*gallery */
@@ -148,12 +139,10 @@ p {
                         line-height: 0;
                         column-count: 2;
                         column-gap: 0;
-                        float: center;
-                        text-align: center;
+                         text-align: center;
                     }
  #gallery > img {       
-        float: center;
-        text-align: center;
+      text-align: center;
     width: 50%;
     height: 50%;
                     }
@@ -188,10 +177,8 @@ p {
 #sign-up-text{
    font-family: lato , sans-serif;
     color: #3a3a3a;
-     float: center;
      clear:both;
-      float: center;
-     text-align: center;}
+      text-align: center;}
                                   
                                        /*gallery */
  #gallery{
@@ -199,8 +186,7 @@ p {
   line-height: 0;
     column-count: 1;
      column-gap: 0;
-   float: center;
-  text-align: center;
+    text-align: center;
    }
                                
 #gallery > img {
@@ -226,8 +212,7 @@ p {
                                                
   #social-media{
    font-family: lato , sans-serif;
-   float: center;
-  text-align: center; 
+   text-align: center; 
  font-size: 30px;
   display: block;
   margin: 1%;
@@ -240,14 +225,11 @@ p {
                                
  #social-media > li {
   display: block; 
-   float: center; 
-                               
-                                           }
+  }
                                
  #social-media > ul > li {
   display: block; 
-  float: center; }
-                               
+                                 
    }
                                 
                                 
@@ -258,19 +240,16 @@ p {
                                             
                                            
    #menu {
- font-family:font-family: Oswald , sans-serif;
- float: left;
- font-family: Oswald , sans-serif;
- font-size: 10px;
+  float: left;
+ font-size:10px;
  letter-spacing: 1px;
  text-transform: uppercase;
    }
-   #logo{float: left;
+   #logo {float: left;
     font-size: 150%;
     margin-left: 30px;
     text-transform: uppercase;
     color: #3a3a3a;
   }                                        
-                                               
-                          
-}
+}     
+
