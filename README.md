@@ -10,3 +10,4 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, social media and Sign Up page and is almost identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  ![Nav Bar](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/nav-bar.png)
