@@ -25,3 +25,10 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - This section is valuable to the user as they will be able to easily identify the its not only professionals training at the club.
 
 ![Gallery](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/gallery.png)
+
+- __Social media page__
+
+  - This page will allow the user to see get direct links to all social media platforms. 
+  - This section also has a big "call to action" to visit the clubs social media. 
+
+![Meetup Times](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/social-media-page.png)
