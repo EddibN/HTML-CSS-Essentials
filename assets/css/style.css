@@ -107,6 +107,7 @@ p {
  #social-media{
   font-family: lato , sans-serif;
    float: center;
+   margin-top: 10px;
      text-align: center; 
    font-size: 50px;
             display: block;
@@ -194,13 +195,13 @@ p {
                                   
                                        /*gallery */
  #gallery{
-                                           clear: both;
-                                             line-height: 0;
-                                             column-count: 1;
-                                             column-gap: 0;
-                                             float: center;
-                                           text-align: center;
-                                            }
+  clear: both;
+  line-height: 0;
+    column-count: 1;
+     column-gap: 0;
+   float: center;
+  text-align: center;
+   }
                                
 #gallery > img {
                               float: left;
