@@ -18,3 +18,10 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - This section introduces the user to Love Running with an eye catching black & gold logo on white page to grab their attention.
 
 ![Landing Page](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/landing-page.png)
+
+- __Gallery__
+
+  - The gallery will provide the user with supporting images to see what the training at the club might look like. 
+  - This section is valuable to the user as they will be able to easily identify the its not only professionals training at the club.
+
+![Gallery](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/gallery.png)
