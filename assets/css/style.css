@@ -223,17 +223,17 @@ p {
                                
                                        
                                                
-                                                #social-media{
-                                                  font-family: lato , sans-serif;
-                                                   float: center;
-                                                     text-align: center; 
-                                                   font-size: 30px;
-                                                            display: block;
-                                                            margin: 1%;
-                                                            padding: 1%;
-                                                            color:#3a3a3a;
-                                                            clear: both;
-                                                            }
+  #social-media{
+   font-family: lato , sans-serif;
+   float: center;
+  text-align: center; 
+ font-size: 30px;
+  display: block;
+  margin: 1%;
+  padding: 1%;
+    color:#3a3a3a;
+   clear: both;
+  }
                                               
                                            
                                
