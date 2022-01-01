@@ -40,3 +40,19 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - The user will be able to se both the prices and the services such as access to a personal trainer.
 
 ![Sign Up](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/sign-up-page.png)
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator]
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]
+
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - Navigate and select the main Branch
+  - Press deploy and wait.
