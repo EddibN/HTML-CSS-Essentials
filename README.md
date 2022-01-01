@@ -15,7 +15,7 @@ Lions MMA will be useful for people who wants to train MMA or BJJ and to see exa
   - __The landing page__
 
   - The landing page includes a summury of most of the importent information. 
-  - This section introduces the user to Love Running with an eye catching black & gold logo on white page to grab their attention.
+  - This section introduces the user to an eye catching black & gold logo on white page to grab their attention.
 
 ![Landing Page](https://github.com/EddibN/HTML-CSS-Essentials/blob/main/assets/images/readme/landing-page.png)
 
